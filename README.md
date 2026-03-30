@@ -2,7 +2,7 @@
 
 Text-to-Speech for Linux with local GPU/CPU engines. Convert text files, clipboard content, or terminal pane captures into natural-sounding audio — all processing happens on your machine.
 
-VoxTTS is the output counterpart to [VoxCode](../voxcode/) (speech-to-text). Together they close the voice loop: you speak to Claude Code via VoxCode, and Claude's output can be read back to you via VoxTTS.
+VoxTTS is the output counterpart to [VoxCode](https://github.com/RisorseArtificiali/voxcode) (speech-to-text). Together they close the voice loop: you speak to your AI agents via VoxCode, and their output can be read back to you via VoxTTS.
 
 ## How it works
 
